@@ -3,6 +3,6 @@ tqdm
 PyPDF2
 pdfplumber
 plotly
-streamlit
+streamlit>=1.37.0
 streamlit-folium
 geojson
